@@ -24,7 +24,8 @@ delhi-weather-analysis/
 
 ## 📊 Dataset
 
-- Source: Historical hourly weather data (public dataset)
+- Source: Historical hourly weather data (public dataset) **Kaggle**
+  https://www.kaggle.com/mahirkukreja/delhi-weather-data?select=testset.csv
 - Key fields include: temperature, humidity, pressure, wind speed, visibility, weather descriptions, and timestamps
 - Time granularity: Hourly measurements
 - Coverage: Multiple seasons across a full year (or more, depending on dataset)
